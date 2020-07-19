@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# debian / ubuntu only | execute this script using sudo
-
 echo -e "\e[1;46m Starting system maintenance script...\e[0m"
 
 echo -e "\t\e[1;32m Executing: apt-get update\e[0m"
